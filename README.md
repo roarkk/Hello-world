@@ -1,3 +1,3 @@
 # Hello-world
 First repository
-I ama god
+I am a god
