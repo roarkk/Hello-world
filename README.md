@@ -1,2 +1,2 @@
 # Hello-world
-Shiznit
+First repository
